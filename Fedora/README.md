@@ -1,4 +1,4 @@
-##Flavors
+## Flavors
 ---
 **Fedora Spins** are alternative versions of fedora like:
 1. **[Fedora KDE PLASMA DESKTOP](https://fedoraproject.org/spins/kde/)**: It is one of the oldest and most customizable desktop environments available for Linux
