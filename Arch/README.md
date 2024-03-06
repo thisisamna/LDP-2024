@@ -84,7 +84,7 @@ Arch Linux is for Users who are friendly with Linux not for beginners. if you ar
 
 ![](imgs/firstpage.img.png)
 
-* then this page will apper 
+* then this page will appear 
 
 ![](imgs/secondpage.img.png)
 
