@@ -42,7 +42,9 @@ Arch Linux is for Users who are friendly with Linux not for beginners. if you ar
 ## VirtualBox
 * Download [virtualBox](https://www.virtualbox.org/wiki/Downloads) recommended video for [help](https://www.youtube.com/watch?v=nwjZWHou8u0&t=196s) 
 *  Download [ISO image of Arch Linux](https://geo.mirror.pkgbuild.com/iso/2024.03.01/) then select this link
+
 ![](imgs/archlink.img.png)
+
 **After downloading do the following steps to prepare your virtual box** 
 * select **new** option
 
