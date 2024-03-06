@@ -1,17 +1,26 @@
 # Fedora
-![Fedora_LOGO](Imgs/Fedora_LOGO.png)
+
+<img src="Imgs/Fedora_LOGO.png"  width="150" height="150">
+
 ---
+
 ## Distribution History
+
 ---
-Fedora Linux or ___"Fedora"___ is an **Open_source Linux** distribution that was released in **6 November 2003**. It was originally developed as a continuation of [Red Hat Linux](https://en.wikipedia.org/wiki/Red_Hat_Linux) project.
+
+Fedora Linux or **_"Fedora"_** is an **Open_source Linux** distribution that was released in **6 November 2003**. It was originally developed as a continuation of [Red Hat Linux](https://en.wikipedia.org/wiki/Red_Hat_Linux) project.
 Although Fedora is not as stable as Red Hat Enterprise Linux (RHEL), but it is completely free to use and full of innovations, unlike Red Hat that is typically sold through an annual subscription.
 
 ## Distro Image
+
 ![Desktop](Imgs/desktop.png)
 
 ## Flavors
+
 ---
+
 **Fedora Spins** are alternative versions of fedora like:
+
 1. **[Fedora KDE PLASMA DESKTOP](https://fedoraproject.org/spins/kde/)**: It is one of the oldest and most customizable desktop environments available for Linux
 
 1. **[Fedora XFCE](https://fedoraproject.org/spins/xfce/)**: It aims to be fast and lightweight, while still being visually appealing and user friendly so, it is designed to run well on less powerful hardware.
@@ -22,11 +31,11 @@ Although Fedora is not as stable as Red Hat Enterprise Linux (RHEL), but it is c
 
 1. **[Fedora i3](https://fedoraproject.org/spins/i3/)**: This spin is good for users who prefer not to use a mouse, touchpad, or other pointing device to interact with their environment.
 
-1. **[Fedora LXDE](https://fedoraproject.org/spins/lxde/)**: Stands for *"Lightweight X11 Desktop Environment"* and the main goal of LXDE is to keep computer resource usage low. It is especially designed for computers with low hardware specifications like netbooks, mobile device. 
+1. **[Fedora LXDE](https://fedoraproject.org/spins/lxde/)**: Stands for _"Lightweight X11 Desktop Environment"_ and the main goal of LXDE is to keep computer resource usage low. It is especially designed for computers with low hardware specifications like netbooks, mobile device.
 
 1. **[Fedora LXQT](https://fedoraproject.org/spins/lxqt/)**: It provides a small, well selected collection of applications like the Falkon browser, which combines Chromium's rendering engine with a nice Qt experience. LXQt actually began as a spinoff from LXDE when the lead developer decided to try to recreate the desktop using the Qt libraries (which power KDE) instead of GTK. The experience on both desktops is very similar.
 
-1. **[Fedora SOAS](https://fedoraproject.org/spins/soas/)**: Stands for *"Sugar on a Stick"* and it is is a highly specialized desktop designed for educational use with children. The system is simplified into games and puzzles that can be adjusted based on grade levels. It is especially well suited for use with touch screen devices.
+1. **[Fedora SOAS](https://fedoraproject.org/spins/soas/)**: Stands for _"Sugar on a Stick"_ and it is is a highly specialized desktop designed for educational use with children. The system is simplified into games and puzzles that can be adjusted based on grade levels. It is especially well suited for use with touch screen devices.
 
 1. **[Fedora PHOSH](https://fedoraproject.org/spins/phosh/)**: This spin provides a mobile friendly, touch based desktop interface. It's built for mobile devices like phones and tablets, but also laptops with touchscreens. Phosh is built on wayland and other modern GNOME desktop technologies.
 
@@ -35,41 +44,47 @@ Although Fedora is not as stable as Red Hat Enterprise Linux (RHEL), but it is c
 1. **[Fedora BUDGIE](https://fedoraproject.org/spins/budgie/)**:Budgie Desktop uses common desktop design metaphors while offering users sophisticated functionality such as its Raven widget and notification center, and an approachable method to personalization.
 
 ## Real Life use case
+
 ---
 
-[Tom Kunz](https://www.trustradius.com/reviews/fedora-linux-2021-06-29-11-16-36) ~ a Solid Rock Technologies Engineer: 
+[Tom Kunz](https://www.trustradius.com/reviews/fedora-linux-2021-06-29-11-16-36) ~ a Solid Rock Technologies Engineer:
 **"Fedora is excellent for test-lab/R&D deployment"**
 We have had Fedora Linux in testing for a while, and done some limited deployments. It's not our first-choice system, but it is definitely something we have used for certain applications and systems.
 You can see more use cases [here](https://www.reddit.com/r/linuxmasterrace/comments/gx5i3b/what_are_the_real_use_cases_for_fedora/).
 
 ## When it might not be beneficial to use Fedora?
+
 ---
 
 If you don't like changes and want a very stable distribution then Fedora will not be the best choice for you.
 
 ## Its Strengths :)
---- 
 
-* Easy to use, simple, and beginner friendly. 
-* 100% free. 
-* Good balance between bleeding edge and stability.
-* Customizable.
-* Flatpak is installed by default on Fedora. 
+---
+
+- Easy to use, simple, and beginner friendly.
+- 100% free.
+- Good balance between bleeding edge and stability.
+- Customizable.
+- Flatpak is installed by default on Fedora.
 
 ## Its weaknesses :(
+
 ---
 
-* Requires long time to install.
-* Does not include proprietary software and software with usage restrictions. 
-* Not as stable as Red Hat Enterprise because New release of Fedora Core occur about every six months.
+- Requires long time to install.
+- Does not include proprietary software and software with usage restrictions.
+- Not as stable as Red Hat Enterprise because New release of Fedora Core occur about every six months.
 
 ## Installation Guide for Virtual Box
+
 ---
+
 1. Follow this [link](https://www.virtualbox.org/wiki/Downloads) to download a **virtual box** and choose the suitable Package.
 
 1. Download the latest version of Fedora using this [link](https://fedoraproject.org/en/workstation/download).
 
-1. Open the virtual box and click on **new** button in the upper left corner next to the **Add** button.![VB Step 3](<Imgs/VB Step3.png>) 
+1. Open the virtual box and click on **new** button in the upper left corner next to the **Add** button.![VB Step 3](<Imgs/VB Step3.png>)
 
 1. Give a name to your distro like **"Fedora"** or any other name in the **Name** field.
 
@@ -79,11 +94,11 @@ If you don't like changes and want a very stable distribution then Fedora will n
 
 1. Now it's time to customize your memory so:
 
-    1. For the **Base Memory** section give it any number of GBs based on your available memory.
+   1. For the **Base Memory** section give it any number of GBs based on your available memory.
 
-    1. For the **processor** section give it any number of cores.![VB Step 7-2](<VB Step7-2.png>)
+   1. For the **processor** section give it any number of cores.![VB Step 7-2](<VB Step7-2.png>)
 
-    1. Remember to check **Enable EFI** option then press on **Next** button.![VB Step 7-3](<Imgs/VB Step7-3.png>)
+   1. Remember to check **Enable EFI** option then press on **Next** button.![VB Step 7-3](<Imgs/VB Step7-3.png>)
 
 1. Give Fedora any number of GBs from your Hard disk (preferable 20 GBs) then press on **Next** button.![VB Step 8](<Imgs/VB Step8.png>)
 
@@ -93,7 +108,7 @@ If you don't like changes and want a very stable distribution then Fedora will n
 
 1. Go to **Settings => System => Display** and in the **Video memory** section make it 128 MBs. ![VB Step 11](<Imgs/VB Step11.png>)
 
-1. Go to **Settings => System => Shared folders**  then Click on **+** button in the upper right corner and choose **Other**.
+1. Go to **Settings => System => Shared folders** then Click on **+** button in the upper right corner and choose **Other**.
 
 1. In the **Folder Path** section you can share any local drive you want and check **Auto-Mount** option then press **OK => OK** (steps 12 & 13 are optional).![=VB Step 13](<Imgs/VB Step13.png>)
 
@@ -111,7 +126,7 @@ If you don't like changes and want a very stable distribution then Fedora will n
 
 1. Click on **Finish Installation**.![VB Step 20](<Imgs/VB Step20.png>)
 
-1. In the upper right corner click on the **Baterry** icon next to the **sound** icon  then click on **Power** icon and choose the **"Restart..."** option.![VB Step 21](<Imgs/VB Step21.png>)
+1. In the upper right corner click on the **Baterry** icon next to the **sound** icon then click on **Power** icon and choose the **"Restart..."** option.![VB Step 21](<Imgs/VB Step21.png>)
 
 1. Click on **Restart** Button and wait for a while.![VB Step 22](<Imgs/VB Step22.png>)
 
@@ -134,7 +149,9 @@ If you don't like changes and want a very stable distribution then Fedora will n
 All these steps are based on this [tutorial](https://youtu.be/4eJ3pF4-CN4?si=2ydu6BxTvOByQWJv).
 
 ## Installation Guide for Dual Boot
+
 ---
+
 1. You can get Fedora's ISO image [here](https://fedoraproject.org/en/workstation/download).
 
 1. You can then burn the ISO image to a USB stick using [Balena Etcher](https://etcher.balena.io/) or [Rufus](https://rufus.ie/en/).
