@@ -92,9 +92,10 @@ Arch Linux is for Users who are friendly with Linux not for beginners. if you ar
 * **Now you should set up Arch Linux using this [repo](https://github.com/SalmaAlassal/dotfiles/blob/main/arch.md)**
 ## [Recommended Video](https://www.youtube.com/watch?v=Dp0ICJOBNys) 
 ## Dual Boot
-* Download Download [ISO image of arch linux](https://archlinux.org/download/)
+* Download Download [ISO image of Arch Linux](https://archlinux.org/download/)
 * You can then burn the ISO image to a USB stick using [Balena Etcher](https://etcher.balena.io/) or [Rufus](https://rufus.ie/en/).
 * then follow this [repo](https://github.com/SalmaAlassal/dotfiles/blob/main/arch.md) and this [video](https://www.youtube.com/watch?v=JRdYSGh-g3s&t=131s) 
+* Extra Site for help [ArchWiki](https://wiki.archlinux.org/title/Dual_boot_with_Windows)
 # More Resources
 * [Javapoint](https://www.javatpoint.com/arch-linux-operating-system)
 * [ArchWiki](https://wiki.archlinux.org/)
